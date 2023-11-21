@@ -18,8 +18,8 @@ define(['N/record', 'N/search'],
          * @since 2015.2
          */
         const beforeLoad = (scriptContext) => {
-        
 
+            fsr
         }
 
         /**
